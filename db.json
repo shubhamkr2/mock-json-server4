@@ -1,0 +1,126 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "rahul123",
+      "url": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460__340.png",
+      "email": "rahul@123",
+      "password": "rahul123"
+    },
+    {
+      "id": 2,
+      "username": "ankit123",
+      "url": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460__340.png",
+      "email": "ankit@123",
+      "password": "ankit123"
+    },
+    {
+      "id": 3,
+      "username": "shiv123",
+      "url": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460__340.png",
+      "email": "shiv@123",
+      "password": "shiv123"
+    },
+    {
+      "id": 4,
+      "username": "rohan123",
+      "url": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460__340.png",
+      "email": "rohan@123",
+      "password": "rohan123"
+    },
+    {
+      "id": 5,
+      "username": "sahil123",
+      "url": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460__340.png",
+      "email": "sahil@123",
+      "password": "sahil123"
+    }
+  ],
+  "blogs": [
+    {
+      "id": 1,
+      "username": "rahul123",
+      "title": "Be Present",
+      "content": "Turning away from the ledge",
+      "category": "Entertainment",
+      "date": "2017-06-01",
+      "likes": 24,
+      "comments": [
+        { "username": "jane", "content": "Good One" },
+        { "username": "Bob", "content": "nice" }
+      ]
+    },
+    {
+      "id": 2,
+      "username": "mohit123",
+      "title": "Be Present",
+      "content": "Turning away from the ledge",
+      "category": "Entertainment",
+      "date": "2017-06-01",
+      "likes": 24,
+      "comments": [
+        { "username": "jane", "content": "Good One" },
+        { "username": "Bob", "content": "nice" }
+      ]
+    },
+    {
+      "id": 3,
+      "username": "ankit123",
+      "title": "Be Present",
+      "content": "Turning away from the ledge",
+      "category": "Entertainment",
+      "date": "2017-06-01",
+      "likes": 24,
+      "comments": [
+        { "username": "jane", "content": "Good One" },
+        { "username": "Bob", "content": "nice" }
+      ]
+    },
+    {
+      "id": 4,
+      "username": "shiv123",
+      "title": "Be Present",
+      "content": "Turning away from the ledge",
+      "category": "Entertainment",
+      "date": "2017-06-01",
+      "likes": 24,
+      "comments": [
+        { "username": "jane", "content": "Good One" },
+        { "username": "Bob", "content": "nice" }
+      ]
+    },
+    {
+      "id": 5,
+      "username": "sahil123",
+      "title": "Be Present",
+      "content": "Turning away from the ledge",
+      "category": "Entertainment",
+      "date": "2017-06-01",
+      "likes": 24,
+      "comments": [
+        { "username": "jane", "content": "Good One" },
+        { "username": "Bob", "content": "nice" }
+      ]
+    },
+    {
+      "id": 6,
+      "username": "rohan123",
+      "title": "Be Present",
+      "content": "Turning away from the ledge",
+      "category": "Entertainment",
+      "date": "2017-06-01",
+      "likes": 24,
+      "comments": [
+        { "username": "jane", "content": "Good One" },
+        { "username": "Bob", "content": "nice" }
+      ]
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "email": "eve.holt@reqres.in",
+      "password": "cityslicka"
+    }
+  ]
+}
