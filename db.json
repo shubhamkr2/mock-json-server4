@@ -36,85 +36,87 @@
       "password": "sahil123"
     }
   ],
-  "blogs": [
-    {
-      "id": 1,
-      "username": "rahul123",
-      "title": "Be Present",
-      "content": "Turning away from the ledge",
-      "category": "Entertainment",
-      "date": "2017-06-01",
-      "likes": 24,
-      "comments": [
-        { "username": "jane", "content": "Good One" },
-        { "username": "Bob", "content": "nice" }
-      ]
-    },
-    {
-      "id": 2,
-      "username": "mohit123",
-      "title": "Be Present",
-      "content": "Turning away from the ledge",
-      "category": "Entertainment",
-      "date": "2017-06-01",
-      "likes": 24,
-      "comments": [
-        { "username": "jane", "content": "Good One" },
-        { "username": "Bob", "content": "nice" }
-      ]
-    },
-    {
-      "id": 3,
-      "username": "ankit123",
-      "title": "Be Present",
-      "content": "Turning away from the ledge",
-      "category": "Entertainment",
-      "date": "2017-06-01",
-      "likes": 24,
-      "comments": [
-        { "username": "jane", "content": "Good One" },
-        { "username": "Bob", "content": "nice" }
-      ]
-    },
-    {
-      "id": 4,
-      "username": "shiv123",
-      "title": "Be Present",
-      "content": "Turning away from the ledge",
-      "category": "Entertainment",
-      "date": "2017-06-01",
-      "likes": 24,
-      "comments": [
-        { "username": "jane", "content": "Good One" },
-        { "username": "Bob", "content": "nice" }
-      ]
-    },
-    {
-      "id": 5,
-      "username": "sahil123",
-      "title": "Be Present",
-      "content": "Turning away from the ledge",
-      "category": "Entertainment",
-      "date": "2017-06-01",
-      "likes": 24,
-      "comments": [
-        { "username": "jane", "content": "Good One" },
-        { "username": "Bob", "content": "nice" }
-      ]
-    },
-    {
-      "id": 6,
-      "username": "rohan123",
-      "title": "Be Present",
-      "content": "Turning away from the ledge",
-      "category": "Entertainment",
-      "date": "2017-06-01",
-      "likes": 24,
-      "comments": [
-        { "username": "jane", "content": "Good One" },
-        { "username": "Bob", "content": "nice" }
-      ]
-    }
+  "recipes": [
+  {
+		"id" : 1,
+		"username" : "coreyschafer",
+		"title" : "Hazelnut Brownies",
+		"image" : "https://www.imperialsugar.com/sites/default/files/recipe/Nutella-Hazelnut-Brownies-imperial.jpg",
+	  "description" : "Chocolate hazelnut spread ensures these moreish brownies have a fudgy centre. Flecked with pecans and sea salt - they'll be the new go-to brownie recipe",
+		"category" : "Dessert",
+		"ingredients" : ["Hazelnut", "Dark chocolate", "Flour","Eggs"],
+		"instructions" : "Heat oven to 180C/160C fan/ gas 4. Butter and line the base and sides of a 20cm square tin. Put the butter, chocolate and chocolate spread in a heatproof bowl and melt over a pan of lightly simmering water. Once melted, stir and set aside to cool a little.In another bowl, use an electric whisk to beat the eggs and sugar together for 5 mins until light and fluffy. Pour in the chocolate mixture and whisk briefly to combine. Sift in the flour and gently fold through the mixture, then add most of the pecans. Scrape the mixture into the tin and spread out with a spatula. Scatter over the last of the pecans and a good sprinkling of sea salt.Bake for 30-35 mins until set but a little gooey in the middle. Cool, then cut into squares and serve with ice cream and caramel sauce."	
+  },
+      {
+		"id" : 2,
+		"username" : "coreyschafer",
+		"title" : "Hazelnut Brownies",
+		"image" : "https://www.imperialsugar.com/sites/default/files/recipe/Nutella-Hazelnut-Brownies-imperial.jpg",
+	  "description" : "Chocolate hazelnut spread ensures these moreish brownies have a fudgy centre. Flecked with pecans and sea salt - they'll be the new go-to brownie recipe",
+		"category" : "Dessert",
+		"ingredients" : ["Hazelnut", "Dark chocolate", "Flour","Eggs"],
+		"instructions" : "Heat oven to 180C/160C fan/ gas 4. Butter and line the base and sides of a 20cm square tin. Put the butter, chocolate and chocolate spread in a heatproof bowl and melt over a pan of lightly simmering water. Once melted, stir and set aside to cool a little.In another bowl, use an electric whisk to beat the eggs and sugar together for 5 mins until light and fluffy. Pour in the chocolate mixture and whisk briefly to combine. Sift in the flour and gently fold through the mixture, then add most of the pecans. Scrape the mixture into the tin and spread out with a spatula. Scatter over the last of the pecans and a good sprinkling of sea salt.Bake for 30-35 mins until set but a little gooey in the middle. Cool, then cut into squares and serve with ice cream and caramel sauce."	
+  },
+      {
+		"id" : 3,
+		"username" : "coreyschafer",
+		"title" : "Hazelnut Brownies",
+		"image" : "https://www.imperialsugar.com/sites/default/files/recipe/Nutella-Hazelnut-Brownies-imperial.jpg",
+	  "description" : "Chocolate hazelnut spread ensures these moreish brownies have a fudgy centre. Flecked with pecans and sea salt - they'll be the new go-to brownie recipe",
+		"category" : "Dessert",
+		"ingredients" : ["Hazelnut", "Dark chocolate", "Flour","Eggs"],
+		"instructions" : "Heat oven to 180C/160C fan/ gas 4. Butter and line the base and sides of a 20cm square tin. Put the butter, chocolate and chocolate spread in a heatproof bowl and melt over a pan of lightly simmering water. Once melted, stir and set aside to cool a little.In another bowl, use an electric whisk to beat the eggs and sugar together for 5 mins until light and fluffy. Pour in the chocolate mixture and whisk briefly to combine. Sift in the flour and gently fold through the mixture, then add most of the pecans. Scrape the mixture into the tin and spread out with a spatula. Scatter over the last of the pecans and a good sprinkling of sea salt.Bake for 30-35 mins until set but a little gooey in the middle. Cool, then cut into squares and serve with ice cream and caramel sauce."	
+  },
+      {
+		"id" : 4,
+		"username" : "coreyschafer",
+		"title" : "Hazelnut Brownies",
+		"image" : "https://www.imperialsugar.com/sites/default/files/recipe/Nutella-Hazelnut-Brownies-imperial.jpg",
+	  "description" : "Chocolate hazelnut spread ensures these moreish brownies have a fudgy centre. Flecked with pecans and sea salt - they'll be the new go-to brownie recipe",
+		"category" : "Dessert",
+		"ingredients" : ["Hazelnut", "Dark chocolate", "Flour","Eggs"],
+		"instructions" : "Heat oven to 180C/160C fan/ gas 4. Butter and line the base and sides of a 20cm square tin. Put the butter, chocolate and chocolate spread in a heatproof bowl and melt over a pan of lightly simmering water. Once melted, stir and set aside to cool a little.In another bowl, use an electric whisk to beat the eggs and sugar together for 5 mins until light and fluffy. Pour in the chocolate mixture and whisk briefly to combine. Sift in the flour and gently fold through the mixture, then add most of the pecans. Scrape the mixture into the tin and spread out with a spatula. Scatter over the last of the pecans and a good sprinkling of sea salt.Bake for 30-35 mins until set but a little gooey in the middle. Cool, then cut into squares and serve with ice cream and caramel sauce."	
+  },
+      {
+		"id" : 5,
+		"username" : "coreyschafer",
+		"title" : "Hazelnut Brownies",
+		"image" : "https://www.imperialsugar.com/sites/default/files/recipe/Nutella-Hazelnut-Brownies-imperial.jpg",
+	  "description" : "Chocolate hazelnut spread ensures these moreish brownies have a fudgy centre. Flecked with pecans and sea salt - they'll be the new go-to brownie recipe",
+		"category" : "Dessert",
+		"ingredients" : ["Hazelnut", "Dark chocolate", "Flour","Eggs"],
+		"instructions" : "Heat oven to 180C/160C fan/ gas 4. Butter and line the base and sides of a 20cm square tin. Put the butter, chocolate and chocolate spread in a heatproof bowl and melt over a pan of lightly simmering water. Once melted, stir and set aside to cool a little.In another bowl, use an electric whisk to beat the eggs and sugar together for 5 mins until light and fluffy. Pour in the chocolate mixture and whisk briefly to combine. Sift in the flour and gently fold through the mixture, then add most of the pecans. Scrape the mixture into the tin and spread out with a spatula. Scatter over the last of the pecans and a good sprinkling of sea salt.Bake for 30-35 mins until set but a little gooey in the middle. Cool, then cut into squares and serve with ice cream and caramel sauce."	
+  },
+      {
+		"id" : 6,
+		"username" : "coreyschafer",
+		"title" : "Hazelnut Brownies",
+		"image" : "https://www.imperialsugar.com/sites/default/files/recipe/Nutella-Hazelnut-Brownies-imperial.jpg",
+	  "description" : "Chocolate hazelnut spread ensures these moreish brownies have a fudgy centre. Flecked with pecans and sea salt - they'll be the new go-to brownie recipe",
+		"category" : "Dessert",
+		"ingredients" : ["Hazelnut", "Dark chocolate", "Flour","Eggs"],
+		"instructions" : "Heat oven to 180C/160C fan/ gas 4. Butter and line the base and sides of a 20cm square tin. Put the butter, chocolate and chocolate spread in a heatproof bowl and melt over a pan of lightly simmering water. Once melted, stir and set aside to cool a little.In another bowl, use an electric whisk to beat the eggs and sugar together for 5 mins until light and fluffy. Pour in the chocolate mixture and whisk briefly to combine. Sift in the flour and gently fold through the mixture, then add most of the pecans. Scrape the mixture into the tin and spread out with a spatula. Scatter over the last of the pecans and a good sprinkling of sea salt.Bake for 30-35 mins until set but a little gooey in the middle. Cool, then cut into squares and serve with ice cream and caramel sauce."	
+  },
+      {
+		"id" : 7,
+		"username" : "coreyschafer",
+		"title" : "Hazelnut Brownies",
+		"image" : "https://www.imperialsugar.com/sites/default/files/recipe/Nutella-Hazelnut-Brownies-imperial.jpg",
+	  "description" : "Chocolate hazelnut spread ensures these moreish brownies have a fudgy centre. Flecked with pecans and sea salt - they'll be the new go-to brownie recipe",
+		"category" : "Dessert",
+		"ingredients" : ["Hazelnut", "Dark chocolate", "Flour","Eggs"],
+		"instructions" : "Heat oven to 180C/160C fan/ gas 4. Butter and line the base and sides of a 20cm square tin. Put the butter, chocolate and chocolate spread in a heatproof bowl and melt over a pan of lightly simmering water. Once melted, stir and set aside to cool a little.In another bowl, use an electric whisk to beat the eggs and sugar together for 5 mins until light and fluffy. Pour in the chocolate mixture and whisk briefly to combine. Sift in the flour and gently fold through the mixture, then add most of the pecans. Scrape the mixture into the tin and spread out with a spatula. Scatter over the last of the pecans and a good sprinkling of sea salt.Bake for 30-35 mins until set but a little gooey in the middle. Cool, then cut into squares and serve with ice cream and caramel sauce."	
+  },
+      {
+		"id" : 8,
+		"username" : "coreyschafer",
+		"title" : "Hazelnut Brownies",
+		"image" : "https://www.imperialsugar.com/sites/default/files/recipe/Nutella-Hazelnut-Brownies-imperial.jpg",
+	  "description" : "Chocolate hazelnut spread ensures these moreish brownies have a fudgy centre. Flecked with pecans and sea salt - they'll be the new go-to brownie recipe",
+		"category" : "Dessert",
+		"ingredients" : ["Hazelnut", "Dark chocolate", "Flour","Eggs"],
+		"instructions" : "Heat oven to 180C/160C fan/ gas 4. Butter and line the base and sides of a 20cm square tin. Put the butter, chocolate and chocolate spread in a heatproof bowl and melt over a pan of lightly simmering water. Once melted, stir and set aside to cool a little.In another bowl, use an electric whisk to beat the eggs and sugar together for 5 mins until light and fluffy. Pour in the chocolate mixture and whisk briefly to combine. Sift in the flour and gently fold through the mixture, then add most of the pecans. Scrape the mixture into the tin and spread out with a spatula. Scatter over the last of the pecans and a good sprinkling of sea salt.Bake for 30-35 mins until set but a little gooey in the middle. Cool, then cut into squares and serve with ice cream and caramel sauce."	
+  }
   ],
   "admin": [
     {
